@@ -1,0 +1,3 @@
+#cmakedefine DEBUG
+#cmakedefine01 IS_LTO
+#cmakedefine AUTHOR "${AUTHOR}"
